@@ -1,4 +1,4 @@
-# Solving-Python
+# Solving Python
 A brief list of exercises solved by me.
 
 
